@@ -1,13 +1,17 @@
-title: Template
-slug: template
+title: Pluto
+slug: pluto
 hashtag: "#connectedacademy"
 engine: local # local, twitter etc.
 image:
 imagecredit:
 admins: 
   - edjenkins91
+  - "jonathan_worth"
+  - "stephenmayes"
 teachers:
   - edjenkins91
+  - "jonathan_worth"
+  - "stephenmayes"
 classes:
   -
     title: Introduction
